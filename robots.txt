@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 User-agent: *
 Disallow: 
 Sitemap: https://cyrgui496.github.io/lapanthere/sitemap.xml
-=======
-User-agent: *
-Disallow: 
-Sitemap: https://cyrgui496.github.io/lapanthere/sitemap.xml
->>>>>>> 4519151d69df65295284d85e681b63b37cab9da9
