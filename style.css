@@ -325,7 +325,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 48px;
+    font-size: 16px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -702,6 +702,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    font-size: 48px;
 }
 
 h2 {
