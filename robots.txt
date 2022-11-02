@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://cyrgui496.github.io/lapanthere/sitemap.xml
