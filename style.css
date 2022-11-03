@@ -105,7 +105,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #000;
 }
 
 .d-bloc button:hover {
@@ -776,7 +776,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #9E310A;
 }
 
 .tc-white {
