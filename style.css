@@ -105,7 +105,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc button:hover {
@@ -661,6 +661,10 @@ a {
 
 #bloc-8 li a{
     color: #341e1e!important;;
+}
+
+#bloc-8{
+    color:#341e1e
 }
 
 .container {
