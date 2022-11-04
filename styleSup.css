@@ -15,3 +15,8 @@ p {
     padding:15px;
     color:#1E1E1E!important;
 }
+
+img{
+    max-width: 100%;
+    height:auto;
+}
