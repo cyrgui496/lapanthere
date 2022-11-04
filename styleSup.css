@@ -3,10 +3,15 @@ p {
 }
 
 #bloc-8{
-    color:#1E1E1E!important;
+    color:#1E1E1E;
+}
+
+#bloc-8 p{
+    color:#1E1E1E;
 }
 
 #bloc-8 ul li a{
     margin:5px;
     padding:5px;
+    color:#1E1E1E;
 }
