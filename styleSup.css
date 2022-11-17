@@ -20,3 +20,9 @@ img{
     max-width: 100%; /*correction pb numero 15 */
     height:auto; /*correction pb numero 15 */
 }
+
+/* Page contact.html */
+
+button{
+    color: #1E1E1E;
+}
