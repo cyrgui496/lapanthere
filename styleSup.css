@@ -24,8 +24,8 @@ p {
 
 /* pr accessibilité */
 a:focus {
-    outline: 3px solid #1E1E1E;
-    outline-offset: 5px;
+    outline: 3px solid #1E1E1E !important;
+    outline-offset: 5px !important;
 }
 
 img {
