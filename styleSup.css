@@ -45,5 +45,5 @@ img {
 /* pr accessibilité */
 .btn-atomic-tangerine:focus {
     outline: none !important;
-    box-shadow: 0 0 0 3px #1E1E1E !important;
+    box-shadow: 0 0 0 2px white, 0 0 0 5px #1E1E1E !important;
 }
