@@ -22,6 +22,12 @@ p {
     /*correction pb numero 13 */
 }
 
+/* pr accessibilité */
+a:focus {
+    outline: 3px solid #1E1E1E;
+    outline-offset: 5px;
+}
+
 img {
     max-width: 100%;
     /*correction pb numero 15 */
