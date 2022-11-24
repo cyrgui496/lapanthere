@@ -41,3 +41,9 @@ img {
     color: #1E1E1E !important;
     /*correction pb 17 */
 }
+
+/* pr accessibilité */
+.btn-atomic-tangerine:focus {
+    outline: none !important;
+    box-shadow: 0 0 0 3px #1E1E1E !important;
+}
