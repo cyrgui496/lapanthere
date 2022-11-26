@@ -22,7 +22,7 @@ p {
     /*correction pb numero 13 */
 }
 
-/* pr accessibilité */
+/* pr accessibilité pb 21*/
 a:focus {
     outline: 3px solid #1E1E1E !important;
     outline-offset: 5px !important;
@@ -42,18 +42,18 @@ img {
     /*correction pb 17 */
 }
 
-/* pr accessibilité */
+/* pr accessibilité pb 21*/
 .btn-atomic-tangerine:focus {
     outline: none !important;
     box-shadow: 0 0 0 2px white, 0 0 0 5px #1E1E1E !important;
 }
 
-/* pr seo, pb de dimenssionnement délément tactile*/
+/* pr seo, pb de dimenssionnement d'élément tactile pb 22*/
 #bloc-0 ul li a {
     margin: 15px;
     padding: 15px;
 }
-/* pr seo, pb de dimenssionnement délément tactile*/
+/* pr seo, pb de dimenssionnement d'élément tactile pb 22*/
 input{
     height: 50px;
 }
