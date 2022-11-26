@@ -48,8 +48,13 @@ img {
     box-shadow: 0 0 0 2px white, 0 0 0 5px #1E1E1E !important;
 }
 
+/* pr seo, pb de dimenssionnement délément tactile*/
 #bloc-0 ul li a {
     margin: 15px;
     padding: 15px;
+}
+/* pr seo, pb de dimenssionnement délément tactile*/
+input{
+    height: 50px;
 }
 
