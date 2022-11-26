@@ -47,3 +47,9 @@ img {
     outline: none !important;
     box-shadow: 0 0 0 2px white, 0 0 0 5px #1E1E1E !important;
 }
+
+#bloc-0 ul li a {
+    margin: 15px;
+    padding: 15px;
+}
+
