@@ -58,3 +58,8 @@ input{
     height: 50px;
 }
 
+/* pr seo, supp des images textuelles puis style pb 23 */
+blockquote{
+    font-style: italic;
+    font-weight: bold;
+}
