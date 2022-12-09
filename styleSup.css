@@ -62,4 +62,9 @@ input{
 blockquote{
     font-style: italic;
     font-weight: bold;
+    color:#575757;
+}
+
+figcaption{
+    color:#575757;
 }
