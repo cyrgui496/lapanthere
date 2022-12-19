@@ -13,14 +13,18 @@ p {
     /*correction pb numero 13 */
 }
 
+/*
+
 #bloc-8 ul li a {
     margin: 15px;
-    /*correction pb numero 10 */
+    correction pb numero 10
     padding: 15px;
-    /*correction pb numero 10 */
+    correction pb numero 10
     color: #1E1E1E !important;
-    /*correction pb numero 13 */
+    correction pb numero 13
 }
+
+*/
 
 /* pr accessibilité pb 21*/
 a:focus {
